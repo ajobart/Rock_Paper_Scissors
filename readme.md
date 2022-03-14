@@ -1,4 +1,4 @@
-#Rock Paper Scissors !
+Rock Paper Scissors !
 ---
 
 This is the famous game '**Rock Paper Scissors**' in Javascript.
