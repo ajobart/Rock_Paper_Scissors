@@ -1,0 +1,51 @@
+body {
+  font-family: 'circular-loom';
+  background-color: #EFE7DA;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: #F6F0E8;
+  padding: 60px;
+  border-radius: 20px;
+  color: #1A202C;
+}
+
+.game-container {
+  width: 100%;
+}
+
+span {
+  font-weight: 300;
+}
+
+.card-result {
+  background-color: #1A202C;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+button {
+  margin: 5px;
+  height: 80px;
+  width: 100px;
+  font-size: medium;
+  color: white;
+  background-color: #37b1af;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #329795;
+}
